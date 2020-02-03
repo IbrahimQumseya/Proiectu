@@ -1,10 +1,10 @@
-#Nume proiect :
+# Nume proiect :
 
-##Autor : Qumseya Ibrahim
+## Autor : Qumseya Ibrahim
 
-###DESCRIERE :
+### DESCRIERE :
 
-####TEHNOLOGII FOLOSITE: C# , ASP.NET
+#### TEHNOLOGII FOLOSITE: C# , ASP.NET
 
 ![Image of project](https://github.com/IbrahimQumseya/IbrahimQumseya.github.io/blob/master/HTML/Proiect/img/proiect2.jpg)
 ![Image of project](https://github.com/IbrahimQumseya/IbrahimQumseya.github.io/blob/master/HTML/Proiect/img/proiect.jpg)
