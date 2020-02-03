@@ -1,4 +1,4 @@
-# Nume proiect :
+# Nume proiect : Registration login
 
 ## Autor : Qumseya Ibrahim
 
