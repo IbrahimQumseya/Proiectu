@@ -2,7 +2,7 @@
 
 ## Autor : Qumseya Ibrahim
 
-### DESCRIERE :
+### DESCRIERE : registartion and sending activation code for the client , login and it has access to camera
 
 #### TEHNOLOGII FOLOSITE: C# , ASP.NET
 
